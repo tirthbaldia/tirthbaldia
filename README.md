@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🧑‍💻 I’m currently working on: An Azure-based Microsoft Teams AI agent for compliance screening + a supply-risk “items-at-risk” model for early drug shortage sensing (McKesson capstone).<br>🤝 I’m looking to collaborate on: RAG/agent evaluation, ML forecasting & risk scoring, data pipelines, Power BI dashboards.<br>🧠 I’m looking for help with: Best practices for LLM eval (hallucinations, grounding checks), deployment/MLOps patterns.<br>🌱 I’m currently learning: Azure AI Foundry, stronger MLOps (tracking/monitoring), deep learning models and more advanced time-series + causal thinking.<br>💬 Ask me about: Turning messy business problems into ML pipelines, Azure + Power BI reporting, or how I think like a physicist when debugging models.<br>⚡ Fun fact: I design custom menswear with tailors (suits/shirts/trousers) and love cooking out of the box recipes.
 
 
